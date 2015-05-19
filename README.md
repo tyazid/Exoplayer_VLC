@@ -1,2 +1,3 @@
 # Exoplay_VLC
-Google Android ExoPlayer with VLC tracks rendering.
+Google Android ExoPlayer with VLC tracks rendering. 
+// in progress ..
