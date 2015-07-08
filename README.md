@@ -19,7 +19,7 @@ The principle is that the LibVLC is used to render audio/video/subtitle tracks w
 -VLC is well integrated in android (build, runtime & dbg)
 
 ##How it works?:
-Android ExoPlayer provides default TrackRenderer implementations for presenting audio and video contents for various format and protocols. It also support a customized track renderers through a provided  renderer builder (see https://developer.android.com/guide/topics/media/exoplayer.html). ExoPlayer_VLC is a supply of an implementation of the customizable part of the exo-player  media content rendering  based on LibVLC. this implementation will used the appliaction player surface and set it as VLC surface video redering, it will also translate available VLC tracks to exoplayer tracks and export them trought its com.google.android.exoplayer.SampleSource implementation and so allow their selection using its  com.google.android.exoplayer.source.SampleExtractor.selectTrack(int) metho implemetation.
+Android ExoPlayer provides default TrackRenderer implementations for presenting audio and video contents for various format and protocols. It also support a customized track renderers through a provided  renderer builder (see https://developer.android.com/guide/topics/media/exoplayer.html). ExoPlayer_VLC is a supply of an implementation of the customizable part of the exo-player  media content rendering  based on LibVLC. this implementation will use the appliaction player surface and set it as VLC surface video redering, it will also translate available VLC media tracks to exoplayer tracks and export them trought its com.google.android.exoplayer.SampleSource implementation and so allows their selection using its  com.google.android.exoplayer.source.SampleExtractor.selectTrack(int) method implemetation.
 
 Android default exoplayer implemetation:
 
@@ -29,7 +29,7 @@ VLC implementation of Exoplayer framwork:
 
 ![alt tag](https://github.com/tyazid/Exoplayer_VLC/blob/master/doc/diag1.png)
 
-Programmatically, the appliaction who want to use exoplayer with VLC renderers implementation should provide the appropriate RendererBuilder implementation ( com.google.android.exoplayer.demo.player.vlc.VLCRendererBuilder is the default one) as folowing:
+Programmatically, the appliaction who want to use exoplayer with VLC renderers implementation (ExoplayerDemo prj) should provide the appropriate RendererBuilder implementation ( com.google.android.exoplayer.demo.player.vlc.VLCRendererBuilder is the default one) as folowing:
  
 
 ```
