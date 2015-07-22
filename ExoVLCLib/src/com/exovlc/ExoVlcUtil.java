@@ -125,7 +125,7 @@ public class ExoVlcUtil {
 		/************/
 		/************/
 
-		vout = org.videolan.libvlc.LibVLC.VOUT_OPEGLES2;
+		/*vout = org.videolan.libvlc.LibVLC.VOUT_OPEGLES2;*/
 		/************/
 		/************/
 		/************/
