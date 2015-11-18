@@ -1,0 +1,3 @@
+include ':ExoPlayerLib', ':VLCExoplayerDemo', ':ExoPlayerDemo'
+include ':libvlc'
+include ':ExoVLCLib'

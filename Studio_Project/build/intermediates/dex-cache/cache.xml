@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/exploded-aar/ExoVLCLib/ExoVLCLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b072e10642a017cf5651c7f70cc8e17287592b1">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/classes-e0f8378beb73762abaf93a801cbbcbd4921cc517.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9f791f3059df436ff14bcbc4466f7d0ac568a348.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/exploded-aar/ExoVLCLib/ExoPlayerLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f9c400cf98751932a71f91adbea916aa04fbc578">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/classes-1f5a53a6c2693b9b9781470157968416aa258089.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/classes-70cfceec6db6478b577bc5305b219bf4a82209a9.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-5981aacf86a05d58cc24beaae3359d1fb0157991.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7d8f7c2df3d66d8d7544383d12bc6d57718f5976.jar" />
+    </item>
+    <item
+        jar="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/exploded-aar/ExoVLCLib/libvlc/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="421f881b63db36f20c9e7e5291edc26e3bad1fb0">
+        <dex dex="/Users/tyazid/AndroidStudioProjects/ExoVLCLib/ExoPlayerDemo/build/intermediates/pre-dexed/debug/classes-f99d04da65cc048d497186c0e9255efa0cd4f485.jar" />
+    </item>
+
+</items>

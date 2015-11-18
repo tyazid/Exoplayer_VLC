@@ -61,3 +61,6 @@ Exoplayer_VLC project (this one) includes ExoVLCLib which deal (and also depends
 
 ##For test:
 bin/ directory contains an exported eclipse LibVLC project containing armv7 jni libs. This project will used as project dpendency(jar lib && jni lib) 
+
+## New Android studio
+ Studio Project has been add to this git repo (with same exoplayer & vlc lib version) , eclipse ADT project is , now, available under Adt_Exoplayer dir.

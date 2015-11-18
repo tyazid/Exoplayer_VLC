@@ -1,0 +1,166 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From ExoVLCLib:
+* .DS_Store
+* proguard-project.txt
+From libvlc:
+* .DS_Store
+* .gitignore
+* build.gradle
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/release/
+* build/generated/source/buildConfig/release/org/
+* build/generated/source/buildConfig/release/org/videolan/
+* build/generated/source/buildConfig/release/org/videolan/BuildConfig.java
+* build/intermediates/
+* build/intermediates/bundles/
+* build/intermediates/bundles/release/
+* build/intermediates/bundles/release/AndroidManifest.xml
+* build/intermediates/bundles/release/aapt/
+* build/intermediates/bundles/release/aapt/AndroidManifest.xml
+* build/intermediates/bundles/release/classes.jar
+* build/intermediates/bundles/release/jni/
+* build/intermediates/bundles/release/jni/armeabi-v7a/
+* build/intermediates/bundles/release/jni/armeabi-v7a/gdb.setup
+* build/intermediates/bundles/release/jni/armeabi-v7a/gdbserver
+* build/intermediates/bundles/release/jni/armeabi-v7a/libanw.10.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libanw.13.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libanw.14.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libanw.18.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libanw.21.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libiomx.10.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libiomx.13.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libiomx.14.so
+* build/intermediates/bundles/release/jni/armeabi-v7a/libvlcjni.so
+* build/intermediates/classes/
+* build/intermediates/classes/release/
+* build/intermediates/classes/release/org/
+* build/intermediates/classes/release/org/videolan/
+* build/intermediates/classes/release/org/videolan/BuildConfig.class
+* build/intermediates/classes/release/org/videolan/libvlc/
+* build/intermediates/classes/release/org/videolan/libvlc/EventHandler.class
+* build/intermediates/classes/release/org/videolan/libvlc/HWDecoderUtil$AudioOutput.class
+* build/intermediates/classes/release/org/videolan/libvlc/HWDecoderUtil$AudioOutputBySOC.class
+* build/intermediates/classes/release/org/videolan/libvlc/HWDecoderUtil$Decoder.class
+* build/intermediates/classes/release/org/videolan/libvlc/HWDecoderUtil$DecoderBySOC.class
+* build/intermediates/classes/release/org/videolan/libvlc/HWDecoderUtil.class
+* build/intermediates/classes/release/org/videolan/libvlc/IVideoPlayer.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVLC$OnNativeCrashListener.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVLC.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVlcException.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVlcUtil$1.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVlcUtil$ElfData.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVlcUtil$MachineSpecs.class
+* build/intermediates/classes/release/org/videolan/libvlc/LibVlcUtil.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$1.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$AudioTrack.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$Meta.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$Parse.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$State.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$SubtitleTrack.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$Track$Type.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$Track.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$Type.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media$VideoTrack.class
+* build/intermediates/classes/release/org/videolan/libvlc/Media.class
+* build/intermediates/classes/release/org/videolan/libvlc/MediaDiscoverer.class
+* build/intermediates/classes/release/org/videolan/libvlc/MediaList$Event.class
+* build/intermediates/classes/release/org/videolan/libvlc/MediaList.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject$1.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject$Event.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject$EventListener.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject$EventRunnable.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject$Events.class
+* build/intermediates/classes/release/org/videolan/libvlc/VLCObject.class
+* build/intermediates/classes/release/org/videolan/libvlc/util/
+* build/intermediates/classes/release/org/videolan/libvlc/util/Extensions.class
+* build/intermediates/classes/release/org/videolan/libvlc/util/MediaBrowser$1.class
+* build/intermediates/classes/release/org/videolan/libvlc/util/MediaBrowser$2.class
+* build/intermediates/classes/release/org/videolan/libvlc/util/MediaBrowser$EventListener.class
+* build/intermediates/classes/release/org/videolan/libvlc/util/MediaBrowser.class
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/release/
+* build/intermediates/incremental/aidl/release/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/release/
+* build/intermediates/incremental/mergeAssets/release/merger.xml
+* build/intermediates/incremental/packageResources/
+* build/intermediates/incremental/packageResources/release/
+* build/intermediates/incremental/packageResources/release/merger.xml
+* build/outputs/
+* build/outputs/aar/
+* build/outputs/aar/libvlc-release.aar
+* build/tmp/
+* build/tmp/packageReleaseJar/
+* build/tmp/packageReleaseJar/MANIFEST.MF
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ExoPlayerLib:
+* .README.txt => .readme.txt
+* AndroidManifest.xml => ExoPlayerLib/src/main/AndroidManifest.xml
+* assets/ => ExoPlayerLib/src/main/assets
+* java/ => ExoPlayerLib/src/main/java/
+* res/ => ExoPlayerLib/src/main/res/
+* src/ => ExoPlayerLib/src/main/java/
+In libvlc:
+* AndroidManifest.xml => libvlc/src/main/AndroidManifest.xml
+* assets/ => libvlc/src/main/assets
+* jni/ => libvlc/src/main/jni/
+* libs/armeabi-v7a/libanw.10.so => libvlc/src/main/jniLibs/armeabi-v7a/libanw.10.so
+* libs/armeabi-v7a/libanw.13.so => libvlc/src/main/jniLibs/armeabi-v7a/libanw.13.so
+* libs/armeabi-v7a/libanw.14.so => libvlc/src/main/jniLibs/armeabi-v7a/libanw.14.so
+* libs/armeabi-v7a/libanw.18.so => libvlc/src/main/jniLibs/armeabi-v7a/libanw.18.so
+* libs/armeabi-v7a/libanw.21.so => libvlc/src/main/jniLibs/armeabi-v7a/libanw.21.so
+* libs/armeabi-v7a/libiomx.10.so => libvlc/src/main/jniLibs/armeabi-v7a/libiomx.10.so
+* libs/armeabi-v7a/libiomx.13.so => libvlc/src/main/jniLibs/armeabi-v7a/libiomx.13.so
+* libs/armeabi-v7a/libiomx.14.so => libvlc/src/main/jniLibs/armeabi-v7a/libiomx.14.so
+* libs/armeabi-v7a/libvlcjni.so => libvlc/src/main/jniLibs/armeabi-v7a/libvlcjni.so
+* res/ => libvlc/src/main/res
+* src/ => libvlc/src/main/java/
+In ExoVLCLib:
+* AndroidManifest.xml => ExoVLCLib/src/main/AndroidManifest.xml
+* assets/ => ExoVLCLib/src/main/assets
+* res/ => ExoVLCLib/src/main/res/
+* src/ => ExoVLCLib/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
